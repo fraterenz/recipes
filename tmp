@@ -1,0 +1,13 @@
+*_data            
+*navigation.yml 
+*text.yml     
+*_includes        
+*_layouts         
+*_sass             
+*assets
+*css
+*main.scss
+*js
+*main.min.js
+*config.yml        
+*index.md            
