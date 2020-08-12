@@ -3,6 +3,7 @@ title: "Nigella Chocolate Cake"
 categories:
  - Cake
 tags:
+  - party
   - favourite
   - bake
 image: 
