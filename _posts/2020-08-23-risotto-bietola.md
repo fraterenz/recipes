@@ -1,5 +1,6 @@
 ---
 title: "Risotto alla bietola"
+layout: post
 categories:
  - Fusion
 tags:

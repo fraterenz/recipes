@@ -1,5 +1,6 @@
 ---
 title: "Pesce Finto"
+layout: post
 categories:
  - Fish
 tags:

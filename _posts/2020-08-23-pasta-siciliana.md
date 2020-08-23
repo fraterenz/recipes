@@ -1,5 +1,6 @@
 ---
 title: "Pasta Siciliana"
+layout: post
 categories:
  - Fish
 tags:
