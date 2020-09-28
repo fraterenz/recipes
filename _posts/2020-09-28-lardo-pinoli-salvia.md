@@ -30,19 +30,31 @@ L’ingrediente principale di questa pasta è il lardo, che può essere accompag
 
 ## Method
 
-1. Mettere su l'acqua a bollire 
-2. In tanto tagliare lardo a strisce sottili e fini. 
-3. Tritare la cipolla in pezzi piccoli piccoli con la salvia
-4. Mettere a fuoco un peperoncino tagliato in due con un'po di olio in una padella 
-5. Mettere a scaldare la cipolla (finché si cuoche a meta) 
-5. Aggiungere il mix di lardo, salvia e pepe a volontà 
-6. A fuco vivace mettere un goccio di vino 
-7. Lasciare evaporare
-8. Spegnete il fuoco in attesa dell'acqua 
-9. Buttare la pasta 
-10. Grattugiare il Parmigiano 
-11. Mettere tanta acqua di cottura da parte 
-12. Scolare la pasta prima di aldente (3 min prima)
-12. Mettere tutto in una padella per fare un sugo cremoso 
-13. Lasciare cuocere per altre 3-4 minuti finché l'acqua non sarà tutta scomparsa (evaporata dice Francesco)
+Mettere su l'acqua a bollire 
+
+In tanto tagliare lardo a strisce sottili e fini.
+ 
+Tritare la cipolla in pezzi piccoli piccoli con la salvia
+
+Mettere a fuoco un peperoncino tagliato in due con un'po di olio in una padella 
+
+Mettere a scaldare la cipolla (finché si cuoche a meta) 
+
+Aggiungere il mix di lardo, salvia e pepe a volontà 
+
+A fuco vivace mettere un goccio di vino. Lasciare evaporare
+
+Spegnete il fuoco in attesa dell'acqua 
+
+Buttare la pasta 
+
+Grattugiare il Parmigiano 
+
+Mettere tanta acqua di cottura da parte
+ 
+Scolare la pasta prima di aldente (3 min prima)
+
+Mettere tutto in una padella per fare un sugo cremoso 
+
+Lasciare cuocere per altre 3-4 minuti finché l'acqua non sarà tutta scomparsa (evaporata dice Francesco)
 
