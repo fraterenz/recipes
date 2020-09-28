@@ -2,6 +2,7 @@
 title: "Pasta Siciliana"
 layout: post
 categories:
+ - Italian
  - Fish
 tags:
   - favourite
