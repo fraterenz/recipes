@@ -3,6 +3,8 @@ title: "Pasta con mazzancolle e triglie"
 author: nm
 categories:
 - Italian
+- Fish
+- Pasta
 tags:
   - favourite 
   - pasta
