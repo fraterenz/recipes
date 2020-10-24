@@ -3,11 +3,12 @@ title: "Pasta con lardo, pinoli e salvia"
 author: nm
 categories:
 - Italian
+- Pasta
 tags:
   - favourite 
   - pasta
 image: 
-  path: 
+  path: /images/lardo-salvia-pinoli.jpg
 ---
 # A dir poco prelibata! 
 

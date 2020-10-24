@@ -4,6 +4,7 @@ layout: post
 categories:
  - Italian
  - Fish
+ - Pasta
 tags:
   - favourite
   - pasta
