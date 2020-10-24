@@ -2,13 +2,15 @@
 title: "Brodetto"
 layout: post
 categories:
- - Fish
+  - Fish
 tags:
   - favourite
   - difficult
 image: 
   path: /images/brodetto.jpg
 ---
+# Il mare in tavola 
+
 Brodetto non è facile perché devi avere il pesce fresco ed in più non devi mettere del pesce che sia troppo saporito o del pesce che sia troppo insipido: il segreto sta nel saper bilanciare i sapori. Per esempio, non bisogna mettere troppe triglie e troppi scorfani, perché sono pesci ben saporiti. L'altra difficoltà sta nel capire la cottura dei pesci: i pesci piccoli cuociono prima e non bisogna metterli troppo presto, sennò si sfaldano.
 
 ## Ingredients
