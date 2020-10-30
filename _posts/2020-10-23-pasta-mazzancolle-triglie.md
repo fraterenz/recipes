@@ -1,5 +1,6 @@
 ---
 title: "Pasta con mazzancolle e triglie"
+layout: post
 author: nm
 categories:
 - Italian
