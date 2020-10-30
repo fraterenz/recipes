@@ -8,7 +8,7 @@ tags:
 image: 
   path: /images/pesce-finto.jpg
 ---
-# Pesce finto
+# To look like a fish
 
 Il pesce finto spacca, è anche conosciuto come patatonno presso le tribù più arcaiche (aka Panki). Fai un figurone alle feste, è buono ma devi tenerlo in frigo per 3 ore almeno. Rischia di essere secco se non metti abbastanza olio, mayo. Attenzione: se metti troppi grassi (olio o mayo) diventa troppo grasso poi e non ö buono. La giusta consistenza dipende quindi anche dal tipo di patata che usi, che deve essere ferma credo.
 

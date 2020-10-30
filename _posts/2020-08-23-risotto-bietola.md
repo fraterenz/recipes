@@ -9,7 +9,7 @@ image:
   path: /images/risotto-fusion-bietole.jpg
 ---
 
-# Risotto alla bietola
+# L'orto e l'India
 
 Risotto alla bietola é una ricetta di Mamma ma che Nasrine ha riadattato, dando un tocco esotico niente male: ha aggiunto la curcuma e il fico.
 
