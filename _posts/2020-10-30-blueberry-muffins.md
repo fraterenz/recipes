@@ -1,5 +1,6 @@
 ---
 title: "Blueberry muffins"
+layout: post
 categories:
   - Cake
 tags:
