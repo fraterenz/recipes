@@ -7,7 +7,7 @@ tags:
   - party
   - bake
 image: 
-  path: 
+  path: /images/blueberry-muffins.jpg
 ---
 # Scrumptious, especially warm! 
 
