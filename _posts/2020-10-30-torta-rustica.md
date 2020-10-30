@@ -1,5 +1,6 @@
 ---
 title: "Torta rustica"
+layout: post
 categories:
  - Italian
 tags:
