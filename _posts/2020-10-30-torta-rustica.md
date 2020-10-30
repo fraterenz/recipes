@@ -1,6 +1,7 @@
 ---
 title: "Torta rustica"
 layout: post
+author: nm
 categories:
  - Italian
 tags:
