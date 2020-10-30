@@ -9,7 +9,7 @@ tags:
   - favourite
   - pasta
 ---
-# Pasta Siciliana
+# Ricco di gusto, il mediterraneo e la Provence
 
 La pasta siciliana si fa con le sarde e le uvette, risultando quindi agrodolce. Molto buona se le sarde sono fresche (e quindi non troppo forti).
 

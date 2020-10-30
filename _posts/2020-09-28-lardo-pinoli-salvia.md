@@ -8,7 +8,7 @@ tags:
   - favourite 
   - pasta
 image: 
-  path: /images/lardo-salvia-pinoli.jpg
+  path: /images/lardo-salvia-pinoli.jpg 
 ---
 # A dir poco prelibata! 
 
