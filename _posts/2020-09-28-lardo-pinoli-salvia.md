@@ -2,8 +2,8 @@
 title: "Pasta con lardo, pinoli e salvia"
 author: nm
 categories:
-- Italian
-- Pasta
+  - Italian
+  - Pasta
 tags:
   - favourite 
   - pasta
