@@ -1,6 +1,7 @@
 ---
 title: "Ma's Green Beans"
 layout: post
+author: nm
 categories:
   - Indian
 tags:

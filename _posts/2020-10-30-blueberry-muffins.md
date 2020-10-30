@@ -1,6 +1,7 @@
 ---
 title: "Blueberry muffins"
 layout: post
+author: nm
 categories:
   - Cake
 tags:
