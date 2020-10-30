@@ -1,5 +1,6 @@
 ---
 title: "Nigella Chocolate Cake"
+layout: posts
 categories:
   - Cake
 tags:

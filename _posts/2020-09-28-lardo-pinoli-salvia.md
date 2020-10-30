@@ -1,5 +1,6 @@
 ---
 title: "Pasta con lardo, pinoli e salvia"
+layout: posts
 author: nm
 categories:
   - Italian
