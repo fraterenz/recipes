@@ -21,7 +21,7 @@ Prepare it beforehand.
 - 1/2 tsp Tumeric powder
 - 1/2 tsp Cumin powder
 - Red chili powder
-- Lemon juice (1 lemon)
+- Lemon juice (1/2 lemon)
 - 3 tablespoons of oil 
 
 
