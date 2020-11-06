@@ -1,8 +1,8 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: New
   url: /
-- title: Posts
+- title: All
   url: /posts/
 - title: Categories
   url: /categories/
