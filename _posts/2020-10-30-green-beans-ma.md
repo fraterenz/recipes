@@ -4,8 +4,7 @@ layout: post
 author: nm
 categories:
   - Indian
-tags:
-  - favourite
+  - Favourite
 image: 
   path: 
 ---

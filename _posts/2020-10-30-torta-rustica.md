@@ -3,11 +3,10 @@ title: "Torta rustica"
 layout: post
 author: nm
 categories:
- - Italian
-tags:
-  - party
-  - favourite
-  - bake
+  - Italian
+  - Party
+  - Favourite
+  - Bake
 image: 
   path: /images/torta_rustica.png
 ---

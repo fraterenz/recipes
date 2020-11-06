@@ -3,8 +3,7 @@ title: "Pesce Finto"
 layout: post
 categories:
  - Fish
-tags:
-  - party
+ - Party
 image: 
   path: /images/pesce-finto.jpg
 ---

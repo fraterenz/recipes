@@ -5,9 +5,8 @@ author: nm
 categories:
   - Italian
   - Pasta
-tags:
-  - favourite 
-  - pasta
+  - Favourite 
+  - Pasta
 image: 
   path: /images/lardo-salvia-pinoli.jpg 
 ---

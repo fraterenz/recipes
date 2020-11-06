@@ -3,9 +3,8 @@ title: "Torta allo yogurth con mele"
 layout: post
 categories:
   - Cake
-tags:
-  - party
-  - bake
+  - Party
+  - Bake
 image: 
   path: /images/torta-mele.jpg
 ---

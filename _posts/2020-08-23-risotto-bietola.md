@@ -3,8 +3,7 @@ title: "Risotto alla bietola"
 layout: post
 categories:
  - Fusion
-tags:
-  - risotto
+ - Risotto
 image:
   path: /images/risotto-fusion-bietole.jpg
 ---

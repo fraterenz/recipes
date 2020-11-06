@@ -3,10 +3,9 @@ title: "Hot and Sour Soup"
 layout: post
 author: nm
 categories:
- - Chinese
-tags:
-  - favourite
-  - difficult 
+  - Chinese
+  - Favourite
+  - Difficult 
 image: 
   path:
 ---

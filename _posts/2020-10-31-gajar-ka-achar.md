@@ -3,9 +3,8 @@ title: "Gajar Ka Achar"
 layout: post
 author: nm
 categories:
- - Indian
-tags:
-  - party
+  - Indian
+  - Party
 image: 
   path:
 ---

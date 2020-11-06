@@ -3,10 +3,9 @@ title: "Chocolate Brownie Cake"
 layout: post
 author: nm
 categories:
- - Cake
-tags:
-  - party
-  - bake 
+  - Cake
+  - Party
+  - Bake 
 image: 
   path: /images/chocolate-brownie.png
 ---

@@ -3,10 +3,9 @@ title: "Nigella Chocolate Cake"
 layout: post
 categories:
   - Cake
-tags:
-  - party
-  - favourite
-  - bake
+  - Party
+  - Favourite
+  - Bake
 image: 
   path: /images/choco-cake.jpg
 ---

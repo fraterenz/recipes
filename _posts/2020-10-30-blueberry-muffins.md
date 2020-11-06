@@ -4,9 +4,8 @@ layout: post
 author: nm
 categories:
   - Cake
-tags:
-  - party
-  - bake
+  - Party
+  - Bake
 image: 
   path: /images/blueberry-muffins.jpg
 ---

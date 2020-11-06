@@ -5,9 +5,8 @@ categories:
  - Italian
  - Fish
  - Pasta
-tags:
-  - favourite
-  - pasta
+ - Favourite
+ - Pasta
 ---
 # Ricco di gusto, il mediterraneo e la Provence
 

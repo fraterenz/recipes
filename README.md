@@ -7,4 +7,4 @@ Go to https://fraterenz.github.io/recipes/
 - 404 page not working
 - images in home page not working
 - twice titles in home page
-- merge `categories` and `tags`
+- ~~merge `categories` and `tags`

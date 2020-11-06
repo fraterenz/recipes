@@ -3,12 +3,11 @@ title: "Pasta con mazzancolle e triglie"
 layout: post
 author: nm
 categories:
-- Italian
-- Fish
-- Pasta
-tags:
-  - favourite 
-  - pasta
+  - Italian
+  - Fish
+  - Pasta
+  - Favourite 
+  - Pasta
 image: 
   path: 
 ---

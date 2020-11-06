@@ -3,9 +3,8 @@ title: "Brodetto"
 layout: post
 categories:
   - Fish
-tags:
-  - favourite
-  - difficult
+  - Favourite
+  - Difficult
 image: 
   path: /images/brodetto.jpg
 ---
