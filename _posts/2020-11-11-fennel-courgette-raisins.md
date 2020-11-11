@@ -4,8 +4,6 @@ layout: post
 author: nm
 categories:
   - Fusion
-image: 
-  path:
 ---
 # Quick and health fix 
 
