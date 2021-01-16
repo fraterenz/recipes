@@ -9,7 +9,7 @@ categories:
 ---
 # Mama makes the best! 
 
-I could it a ton, especially with masala chai!
+I could eat a ton, especially with masala chai!
 
 ## Ingredients (metric)
 
@@ -19,7 +19,7 @@ I could it a ton, especially with masala chai!
 - 1 tbsp viryari (green fennel seeds) 
 - 4 packets dry yeast (4 x 7g) = 28g
 - 2 level tsp baking powder
-- 225 g butter 
+- 225 g ghee or butter 
 - indian mithai color or saffron
 - 1 yolk of egg
 
