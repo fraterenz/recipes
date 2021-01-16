@@ -24,9 +24,9 @@ Un primo piatto veloce, semplice e sfizioso. Of course, una variante del riso!
 
 ## Method
 
-Fate rosolare l'aglio con il peperoncino dolcemente in una pentola con l'olio
+Fate rosolare l'aglio finché diventa dorato con il peperoncino dolcemente in una pentola con l'olio
 
-Metete l'aqua a scaldare dentro una casseruola e quando è pronto aggiungete il sale e il riso. Cuocerlo a fuoco medio. 
+Metete l'acqua a scaldare dentro una casseruola e quando bolle aggiungete il sale e il riso. Cuocerlo a fuoco medio. 
 
 Nella pentola aggiungete i pomodori pelati e un po' di sale. 
 
