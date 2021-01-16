@@ -1,5 +1,5 @@
 ---
-title: "Pasta con rie e vagar"
+title: "Leek Potatoes Contorno"
 layout: post
 author: ft
 categories:
@@ -16,12 +16,13 @@ While I was out picking buttons for his shirt, Francesco got busy cooking!
 - leek 
 - salt 
 - olive oil
+- cumin powder qb
 
 ## Method
 
 Thinly slice the leeks and potatoes. 
 
-Add oil in a pan, add the leeks and potatoes. Sprinkle with a pinch of salt.
+Add oil in a pan, add the leeks and potatoes. Sprinkle with a pinch of salt and cumin powder. 
 
 Let it cook on medium heat for about 30-40min. 
 
