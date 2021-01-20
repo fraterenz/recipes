@@ -12,7 +12,7 @@ image:
 ---
 # A dir poco prelibata! 
 
-L’ingrediente principale di questa pasta è il lardo, che può essere accompagnato da diversi ingredienti: cioè qua con la cipolla, salvia, pinoli, parmigiano, pepe e peperoncino. 
+Una rivisitazione della gricia. Il protagonista di questa ricetta è il lardo, accompagnato da diversi ingredienti: cipolla, salvia, pinoli, parmigiano, pepe e peperoncino. 
 
 ## Ingredients (metric)
 
