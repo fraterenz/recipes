@@ -1,7 +1,7 @@
 ---
 title: "Riso con la mozzarella"
 layout: post
-author: ft
+author: nm
 categories:
   - Italian
   - Favourite
