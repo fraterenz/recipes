@@ -3,6 +3,7 @@ title: "Insalata d'autunno"
 layout: post
 categories:
  - Autunno
+ - Soup
  - Favourite
 image:
   path: /images/insalata-di-autunno.jpg

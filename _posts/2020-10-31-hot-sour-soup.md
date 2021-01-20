@@ -6,6 +6,7 @@ categories:
   - Chinese
   - Favourite
   - Difficult 
+  - Soup
 image: 
   path:
 ---
