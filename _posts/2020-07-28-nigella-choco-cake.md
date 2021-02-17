@@ -11,7 +11,7 @@ image:
 ---
 # Moist, sinful dark chocolate 
 
-Extra moist chocolate cake using extra vergin oil and almond powder. Super light, from [nigella](https://www.nigella.com/recipes/chocolate-olive-oil-cake)
+Extra moist chocolate cake using extra virgin oil and almond powder. Super light, from [nigella](https://www.nigella.com/recipes/chocolate-olive-oil-cake)
 
 ## Ingredients (metric)
 
