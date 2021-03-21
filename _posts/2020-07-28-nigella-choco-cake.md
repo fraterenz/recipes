@@ -7,8 +7,8 @@ categories:
   - Favourite
   - Bake
 image: 
-  path: /images/choco-cake.jpg
-  thumbnail: /images/choco-cake.jpg
+  path: /images/choco-cake-copy.jpg
+  thumbnail: /images/choco-cake-copy.jpg
 ---
 # Moist, sinful dark chocolate 
 

@@ -6,6 +6,7 @@ categories:
   - Bake
 image: 
   path: /images/choco-cake.jpg
+  thumbnail: /images/choco-cake.jpg
 ---
 # Le ciambelline al vino delle c.d. sorelle Materassi
 
