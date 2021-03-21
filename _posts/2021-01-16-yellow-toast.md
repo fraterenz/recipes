@@ -9,7 +9,7 @@ categories:
 ---
 # Mama makes the best! 
 
-I could eat a ton, especially with masala chai!
+I could eat a ton, especially with masala chai! It is best to make it when the weather is nice and sunny, the dough will rise and become nice and fluffy. 
 
 ## Ingredients (metric)
 
@@ -20,12 +20,12 @@ I could eat a ton, especially with masala chai!
 - 4 packets dry yeast (4 x 7g) = 28g
 - 2 level tsp baking powder
 - 225 g ghee or butter 
-- indian mithai color or saffron
-- 1 yolk of egg
+- indian mithai (yellow) color or saffron
+- 1 egg yolk
 
 ## Method
 
-Melt butter in milk, add color and viryari when luke warm 
+Melt butter in milk, add color/saffron and viryari when luke warm 
 
 Sieve flour with baking powder, add sugar and dry yeast
 
