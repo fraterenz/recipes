@@ -8,6 +8,7 @@ categories:
   - Bake
 image: 
   path: /images/choco-cake.jpg
+  thumbnail: /images/choco-cake.jpg
 ---
 # Moist, sinful dark chocolate 
 
