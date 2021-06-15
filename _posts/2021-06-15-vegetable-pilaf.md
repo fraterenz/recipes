@@ -37,7 +37,7 @@ Really nice and comforting. A nice alternative to meat pilaf.
 
 Vagar in oil with with whole jeera, elchi, cloves, cinammon sticks
 
-add 2 onions chopped
+add 2 onions chopped, fry until transparent/golden
 
 add 4 potatooes small halves
 
