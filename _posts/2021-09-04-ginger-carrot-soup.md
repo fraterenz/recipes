@@ -8,7 +8,7 @@ categories:
   - Autunno
   - Inverno
 ---
-# Warm for a cold winter
+# Warmth for a cold winter
 
 Ricetta inviata da Nasrine dalla Svizzera per rasserenare lo stomaco deboluccio di Francesco a Numana.
 

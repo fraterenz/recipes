@@ -4,9 +4,11 @@ layout: post
 author: nm
 categories:
   - Indian
+  - Favourite
+  - Long
 
 ---
-# Unkown 
+# First Indian dish we made together 
 
 Really nice and comforting. A nice alternative to meat pilaf. 
 
