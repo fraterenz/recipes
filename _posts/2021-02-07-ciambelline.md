@@ -4,9 +4,8 @@ layout: post
 categories:
   - Favourite
   - Bake
-image: 
+image:
   path: /images/ciambelline.jpg
-  thumbnail: /images/ciambelline-thum.jpg
 ---
 # Le ciambelline al vino delle c.d. sorelle Materassi
 
