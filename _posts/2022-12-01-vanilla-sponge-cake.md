@@ -5,6 +5,8 @@ categories:
  - Cake
  - Party
  - Baking
+image:
+  path: /images/cake.jpg
 ---
 # Vanilla sponge cake
 
@@ -18,7 +20,7 @@ Questa ricetta e' pensata per due torte.
 - 220 grams of butter
 - 220 grams of margarina
 - 8 eggs
-- 4 teaspons
+- 4 teaspons of baking powder
 - 1 + 1/2 teaspons vanilla essence
 - pinch of salt (q.b.)
 - 6 tablespoons of lukewarm water/coffee
