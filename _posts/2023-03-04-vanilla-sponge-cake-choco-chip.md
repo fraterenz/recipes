@@ -1,6 +1,7 @@
 ---
 title: "Vanilla sponge cake"
 layout: post
+author: nm
 categories:
  - Cake
  - Party

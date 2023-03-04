@@ -1,6 +1,7 @@
 ---
 title: "Sweet potato and carrrot soup"
 layout: post
+author: nm
 categories:
  - Soup
 ---
