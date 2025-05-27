@@ -4,6 +4,8 @@ layout: post
 categories:
   - Italian
   - Favourite
+  - Summer
+  - Spring
 ---
 # Zucchini fritters or le frittelle di zucchine
 From [smittenkitchen](https://smittenkitchen.com/2011/08/zucchini-fritters/).
