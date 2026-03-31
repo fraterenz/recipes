@@ -3,8 +3,8 @@ title: "Yellow Dry Toast"
 layout: post
 author: nm
 categories:
-  - Favourite 
-  - Bake
+  - Favourite
+  - Baking
   - Indian
 ---
 # Mama makes the best! 

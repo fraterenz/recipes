@@ -4,8 +4,8 @@ layout: post
 categories:
   - Cake
   - Party
-  - Bake
-image: 
+  - Baking
+image:
   path: /images/torta-mele.jpg
 ---
 # Leggera, profumata e squisita!

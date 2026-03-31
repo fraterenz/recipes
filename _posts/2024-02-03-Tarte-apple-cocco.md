@@ -6,8 +6,6 @@ categories:
  - Easy
  - Favourite
  - Baking
- - Bake
-
 ---
 # Tarte apple cocco 
 

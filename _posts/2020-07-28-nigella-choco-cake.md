@@ -5,7 +5,7 @@ categories:
   - Cake
   - Party
   - Favourite
-  - Bake
+  - Baking
 image:
   path: /images/choco-cake-copy.jpg
 ---

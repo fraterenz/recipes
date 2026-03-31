@@ -5,11 +5,12 @@ author: nm
 categories:
   - Cake
   - Party
-  - Bake
-image: 
+  - Baking
+image:
   path: /images/blueberry-muffins.jpg
 ---
-# Scrumptious, especially warm! 
+# Bluberry muffins
+Scrumptious, especially warm!
 
 Reminds me of Crassier, when we used to prepare these outside on the patio when it was warm before popping them in the oven. My aunt's recipe. 
 

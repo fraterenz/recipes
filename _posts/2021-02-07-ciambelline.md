@@ -3,7 +3,7 @@ title: "Ciambelline al vino"
 layout: post
 categories:
   - Favourite
-  - Bake
+  - Baking
 image:
   path: /images/ciambelline.jpg
 ---

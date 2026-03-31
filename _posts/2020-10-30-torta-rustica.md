@@ -6,8 +6,8 @@ categories:
   - Italian
   - Party
   - Favourite
-  - Bake
-image: 
+  - Baking
+image:
   path: /images/torta_rustica.png
 ---
 # La ricetta della mamma di Francesco
@@ -16,13 +16,13 @@ Senza parole, si mangia. Se sei lento ti scapa!
 
 ## Ingredients (metric)
 
-- 200 gr piselli 
+- 200 gr piselli
 - 2-3 zucchine
 - Pancetta e basilico (per cuocere i piselli)
 - Fontina o formaggio simile 60 gr. (o forse meno..io faccio a occhio..) 😳
-- 1 uovo 
+- 1 uovo
 - Parmigiano
-- sale, pepe 
+- sale, pepe
 - prosciutto crudo 50 grammi
 
 Accendi il forno a 180 gradi
