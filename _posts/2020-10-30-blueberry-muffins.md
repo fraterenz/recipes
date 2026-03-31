@@ -12,7 +12,7 @@ image:
 # Bluberry muffins
 Scrumptious, especially warm!
 
-Reminds me of Crassier, when we used to prepare these outside on the patio when it was warm before popping them in the oven. My aunt's recipe. 
+Reminds me of Crassier, when we used to prepare these outside on the patio when it was warm before popping them in the oven. My aunt's recipe.
 
 
 ## Ingredients (cups)
@@ -31,11 +31,10 @@ Reminds me of Crassier, when we used to prepare these outside on the patio when 
 
 ## Method
 
-1. Sift flour, baking soda, baking powder and salt. 
+1. Sift flour, baking soda, baking powder and salt.
 2. Beat butter until cream in colour
-3. Add eggs slowly and vanilla 
-4. Add sour cream.
+3. Add eggs slowly and vanilla
+4. Add sour cream
 5. Fold in two cups of blueberries
-6. Bake at 180 degrees for 20-25 min.
-
+6. Bake at 180 degrees for 20-25 min
 
